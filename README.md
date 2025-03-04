@@ -39,6 +39,19 @@ Experienced **Software Engineer** with over **3 years of experience** designing 
 ### **Bachelor of Technology in Computer Science and Engineering** | K L University, India _(Jul 2016 - Apr 2020)_
 
 ## Projects & Research
+### **Travel Diary Application (MERN Stack) **
+
+- Developed a full-stack travel diary app for users to create and manage entries.
+
+- Integrated geospatial indexing in MongoDB for location-based search.
+
+- Implemented secure authentication and deployed on AWS & MongoDB Atlas.
+
+### **MongoDB Sharding for Scalable Applications**
+
+- Designed MongoDB sharding for distributed storage, improving query speed by 45%.
+
+- Developed aggregation pipelines for real-time analytics.
 ### **AI Object Detection with Real-Time Objects** _(Feb 2024 - Apr 2024)_
 - Developed an **object detection model** using **TensorFlow** and the **Microsoft COCO dataset**, classifying objects across **80+ categories**.
 - Conducted research on **YOLO, SSD, and Faster R-CNN** for model selection.
