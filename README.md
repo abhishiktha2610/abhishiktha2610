@@ -2,7 +2,7 @@
 
 # 💻Abhishiktha Valavala
 
-**She/Her** | [LinkedIn](www.linkedin.com/in/abhishikthav) | [GitHub](https://github.com/abhishiktha2610) | Glassboro, NJ | abhishikthavalavala@gmail.com | +1 8565244080
+**She/Her** | [LinkedIn](www.linkedin.com/in/abhishikthav) | [GitHub](https://github.com/abhishiktha2610) | Glassboro, NJ | abhishikthavalavala@gmail.com 
 
 ## About Me
 Experienced **Software Engineer** with over **3 years of experience** designing scalable applications across diverse domains. Proficient in **Angular, .NET Core, Azure, and SQL Server**, specializing in performance optimization, data visualization, and cloud-based solutions. Passionate about **AI, data science, and fraud detection**, having developed real-time object detection models and graph-based fraud detection solutions. Recognized for **technical leadership, problem-solving, and delivering user-centered solutions.**
