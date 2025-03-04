@@ -60,8 +60,8 @@ Experienced **Software Engineer** with over **3 years of experience** designing 
 
 ## Let's Connect!
 - **Email:** abhishikthavalavala@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/abhishikthav)
-- **GitHub:** [Your GitHub Profile](https://github.com/abhishiktha2610)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/abhishikthav)
+- **GitHub:** [GitHub Profile](https://github.com/abhishiktha2610)
 
 _I'm open to exciting opportunities in AI, software development, and cloud computing! Let's build something amazing!_ 🚀
 
